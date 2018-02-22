@@ -13,17 +13,19 @@ The goal of this project is to mark lanes on the video.
 ### 1. Pipeline
 
 1. Color treshold
-![alt text][image1]
-2. Gaussian blur
-![alt text][image1]
-3. Canny Edge Detection
-![alt text][image1]
-4. Apply clipping mask
-![alt text][image1]
-5. Hough Lines
-![alt text][image1]
-6. Combining initial image and lines into one, final image
-![alt text][image1]
+![alt text](examples/colorTreshold.jpg)
+2.Grayscale
+![alt text](examples/grayscale.jpg)
+3. Gaussian blur
+![alt text](examples/colorTreshold.jpg)
+4. Canny Edge Detection
+![alt text](examples/cannyEdge.jpg)
+5. Apply clipping mask
+![alt text](examples/mask.jpg)
+6. Hough Lines
+![alt text](examples/hough.jpg)
+7. Combining initial image and lines into one, final image
+![alt text](examples/final.jpg)
 
 ### 2. Identify potential shortcomings with your current pipeline
 
