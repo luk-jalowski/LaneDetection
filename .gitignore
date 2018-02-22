@@ -137,6 +137,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-test_images_result/*
-test_videos_output/*
